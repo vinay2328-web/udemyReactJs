@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/udemyReactJs/static/css/main.8da7bda4.chunk.css",
+    "main.js": "/udemyReactJs/static/js/main.8e4c93f8.chunk.js",
+    "main.js.map": "/udemyReactJs/static/js/main.8e4c93f8.chunk.js.map",
+    "runtime-main.js": "/udemyReactJs/static/js/runtime-main.0a3a265e.js",
+    "runtime-main.js.map": "/udemyReactJs/static/js/runtime-main.0a3a265e.js.map",
+    "static/js/2.c5b6b13a.chunk.js": "/udemyReactJs/static/js/2.c5b6b13a.chunk.js",
+    "static/js/2.c5b6b13a.chunk.js.map": "/udemyReactJs/static/js/2.c5b6b13a.chunk.js.map",
+    "index.html": "/udemyReactJs/index.html",
+    "static/css/main.8da7bda4.chunk.css.map": "/udemyReactJs/static/css/main.8da7bda4.chunk.css.map",
+    "static/js/2.c5b6b13a.chunk.js.LICENSE.txt": "/udemyReactJs/static/js/2.c5b6b13a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3a265e.js",
+    "static/js/2.c5b6b13a.chunk.js",
+    "static/css/main.8da7bda4.chunk.css",
+    "static/js/main.8e4c93f8.chunk.js"
+  ]
+}
